@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Carlos\Desktop\ARQUITETURA DE DADOS\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3047915357.index
+138956082.index
+1775670997.index
+429811946.index
