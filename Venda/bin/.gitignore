@@ -1,2 +1,8 @@
 /venda.class
 /Venda.class
+/ItemDaVenda.class
+/ItemVenda.class
+/Produto.class
+/FormaDePagamento.class
+/ControladorRealizarVenda.class
+/ControladorRealizarVenda$realizaVenda.class
